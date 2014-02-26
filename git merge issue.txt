@@ -7,7 +7,7 @@ Demo2
 merge -1 windows
 merge -2 linux
 
-
+rebase -1 windows
 
 
 
